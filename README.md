@@ -1,5 +1,10 @@
 # 富豪体验设计师 · Luxury Experience Designer
 
+
+[![Stars](https://img.shields.io/github/stars/Leowu9839/=social)](https://github.com/Leowu9839/luxury-experience-designer/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+> 🏠 这是 [Leo's AI Skill Workshop](https://github.com/Leowu9839/leos-workshop) 的 6 大 Skill 之一，点击查看完整项目集。
 > 快乐平权——把顶级富豪体验拆解为平民可落地的平替方案。去魅、对齐、算账、行动。预算之内，过把富豪瘾。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -10,7 +15,7 @@
 ## ⚡ 安装
 
 ```bash
-git clone https://gitee.com/leos-workshop/luxury-experience-designer.git
+git clone https://github.com/Leowu9839/luxury-experience-designer.git
 cp -r luxury-experience-designer ~/.codex/skills/
 ```
 
@@ -84,3 +89,18 @@ Skill 自动触发，输出固定开场白后进入场景探询。
 ## 📄 许可
 
 MIT License · 欢迎使用、修改、分发。
+
+---
+
+## 🔗 相关项目
+
+这是 [Leo's AI Skill Workshop](https://github.com/Leowu9839/leos-workshop) 的一部分，更多 Skill：
+
+| Skill | 场景 |
+|:---|:---|
+| 🏛️ [制度顾问](https://github.com/Leowu9839/policy-counsel) | 企业合规 / 政策分析 |
+| 🐕 [数据宝藏猎犬](https://github.com/Leowu9839/data-treasure-hound) | 数据调研 / 信息挖掘 |
+| ⚙️ [工程化 Agent](https://github.com/Leowu9839/engineering-agent) | 开发提效 / 自动化 |
+| 💎 [富人生活顾问](https://github.com/Leowu9839/luxury-experience-designer) | 生活方式 / 品质提升 |
+| ✈️ [LXTI 旅行人格](https://github.com/Leowu9839/lxti-travel-personality) | 旅行规划 / 人格测试 |
+| 🔍 [拆穿 Skill](https://github.com/Leowu9839/deconstruct-skill) | 批判思维 / 信息甄别 |
